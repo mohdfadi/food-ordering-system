@@ -1,6 +1,6 @@
 #creating a food ordering system...
 class Products():
-    def __init__(self,Chicking,Pizza_ricotta,juicy,):
+    def __init__(self,Chicking,Pizza_ricotta,juicy):
         self.Chicking = Chicking 
         self.Pizza_ricotta = Pizza_ricotta
         self.juicy =juicy
